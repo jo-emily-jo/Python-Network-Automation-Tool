@@ -1,0 +1,4 @@
+hostname
+ip addr
+ip route
+uname -a

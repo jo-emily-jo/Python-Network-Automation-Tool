@@ -1,0 +1,12 @@
+2026-04-10 13:31:18,265 - INFO - [MOCK] Connecting to 192.168.1.10
+2026-04-10 13:31:18,265 - INFO - [MOCK] Running 'hostname' on 192.168.1.10
+2026-04-10 13:31:18,265 - INFO - [MOCK] Running 'ip addr' on 192.168.1.10
+2026-04-10 13:31:18,265 - INFO - [MOCK] Running 'ip route' on 192.168.1.10
+2026-04-10 13:31:18,265 - INFO - [MOCK] Running 'uname -a' on 192.168.1.10
+2026-04-10 13:31:18,265 - INFO - [MOCK] Completed 192.168.1.10
+2026-04-10 13:31:18,265 - INFO - [MOCK] Connecting to 192.168.1.11
+2026-04-10 13:31:18,265 - INFO - [MOCK] Running 'hostname' on 192.168.1.11
+2026-04-10 13:31:18,265 - INFO - [MOCK] Running 'ip addr' on 192.168.1.11
+2026-04-10 13:31:18,265 - INFO - [MOCK] Running 'ip route' on 192.168.1.11
+2026-04-10 13:31:18,265 - INFO - [MOCK] Running 'uname -a' on 192.168.1.11
+2026-04-10 13:31:18,266 - INFO - [MOCK] Completed 192.168.1.11
