@@ -1,5 +1,9 @@
-<<<<<<< HEAD
-# Python Network Automation Tool
+# 🚀 Python Network Automation Tool
+
+> Automate SSH connections and command execution across multiple devices using Python.
+
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Status](https://img.shields.io/badge/status-active-success)
 
 ## Overview
 This project is a Python-based network automation tool that connects to devices or servers over SSH and executes commands automatically.
@@ -111,6 +115,3 @@ uname -a
 
 ## Author
 Emily Jo
-=======
-# Python-Network-Automation-Tool
->>>>>>> 311db717e721829057936ee977e68d10770923d0
