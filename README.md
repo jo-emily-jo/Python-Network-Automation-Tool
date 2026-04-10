@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Python Network Automation Tool
 
 ## Overview
@@ -110,3 +111,6 @@ uname -a
 
 ## Author
 Emily Jo
+=======
+# Python-Network-Automation-Tool
+>>>>>>> 311db717e721829057936ee977e68d10770923d0
